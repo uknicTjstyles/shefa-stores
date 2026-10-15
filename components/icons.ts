@@ -1,0 +1,30 @@
+import {
+  Dumbbell,
+  Ellipsis,
+  Headset,
+  House,
+  Monitor,
+  Puzzle,
+  ShieldCheck,
+  Shirt,
+  ShoppingBasket,
+  ShoppingCart,
+  Sparkles,
+  Truck,
+  type LucideIcon,
+} from "lucide-react";
+
+export const iconMap: Record<string, LucideIcon> = {
+  Dumbbell,
+  Ellipsis,
+  Headset,
+  House,
+  Monitor,
+  Puzzle,
+  ShieldCheck,
+  Shirt,
+  ShoppingBasket,
+  ShoppingCart,
+  Sparkles,
+  Truck,
+};
